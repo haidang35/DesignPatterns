@@ -1,4 +1,4 @@
-package StrategyPattern.payment;
+package strategy_pattern.payment;
 
 public class CartItem {
     private String upcCode;

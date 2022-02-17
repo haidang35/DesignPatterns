@@ -1,4 +1,4 @@
-package StrategyPattern.payment;
+package strategy_pattern.payment;
 
 public class StrategyPatternExample {
     public static void main(String[] args) {

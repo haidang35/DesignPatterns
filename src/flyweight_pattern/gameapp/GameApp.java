@@ -1,4 +1,4 @@
-package FlyweightPattern.gameapp;
+package flyweight_pattern.gameapp;
 
 import java.time.Duration;
 import java.util.ArrayList;

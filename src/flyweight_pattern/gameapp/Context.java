@@ -1,4 +1,4 @@
-package FlyweightPattern.gameapp;
+package flyweight_pattern.gameapp;
 
 public class Context {
     private String id;

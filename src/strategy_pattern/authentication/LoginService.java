@@ -1,4 +1,4 @@
-package StrategyPattern.authentication;
+package strategy_pattern.authentication;
 
 public class LoginService {
     private AuthStrategy authStrategy;

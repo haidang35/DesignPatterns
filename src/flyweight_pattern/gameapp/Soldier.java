@@ -1,4 +1,4 @@
-package FlyweightPattern.gameapp;
+package flyweight_pattern.gameapp;
 
 public class Soldier  implements ISoldier{
     private final String name;
